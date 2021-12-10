@@ -1,6 +1,10 @@
 # raphael
 
-this project is an (ongoing) attempt to visualise all my liked spotify songs
+this project is an (ongoing) attempt to visualise all my liked spotify songs. generated plots available [here](assets/plot.html).
+<br>
+
+![Alt Text](assets/plot_complete.gif)
+<center>scatter plot of all 727 songs </center>
 
 <br>
 
@@ -13,7 +17,20 @@ this project is an (ongoing) attempt to visualise all my liked spotify songs
 
 
 ## findings:
+while embeddings are quite simple, some observations are interesting
 
+![Alt Text](assets/bob_dylan_cluster.gif)
+<center>bob dylan songs grouped together</center>
+
+<br>
+
+![Alt Text](assets/electro.gif)
+<center>electronic music? VU definitely being an anomaly </center>
+
+<br>
+
+![Alt Text](assets/cluster_rap.gif)
+<center> rap/hip-hop </center>
 
 
 ## to dos:
