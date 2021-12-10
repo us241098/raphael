@@ -4,7 +4,7 @@ this project is an (ongoing) attempt to visualise all my liked spotify songs. ge
 <br>
 
 ![Alt Text](assets/plot_complete.gif)
-<center>scatter plot of all 727 songs </center>
+<p style="text-align: center;"> scatter plot of all 727 songs </p>
 
 <br>
 
@@ -20,17 +20,17 @@ this project is an (ongoing) attempt to visualise all my liked spotify songs. ge
 while embeddings are quite simple, some observations are interesting
 
 ![Alt Text](assets/bob_dylan_cluster.gif)
-<center>bob dylan songs grouped together</center>
+<p style="text-align: center;"> bob dylan songs grouped together </p>
 
 <br>
 
 ![Alt Text](assets/electro.gif)
-<center>electronic music? VU definitely being an anomaly </center>
+<p style="text-align: center;"> electronic music? VU definitely being an anomaly </p>
 
 <br>
 
 ![Alt Text](assets/cluster_rap.gif)
-<center> rap/hip-hop </center>
+<p style="text-align: center;"> rap/hip-hop </p>
 
 
 ## to dos:
